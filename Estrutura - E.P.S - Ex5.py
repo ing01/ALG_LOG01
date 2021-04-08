@@ -5,4 +5,4 @@ percentual = float(input('Informe o percentual de aumento do seu salário:'))
 aumento = salario * percentual/100
 print('Seu aumento será de R$',aumento)
 novo_salario = salario + aumento
-print('Seu novo salário será R$', novo_salario) 
+print('Seu novo salário será R$', novo_salario)
