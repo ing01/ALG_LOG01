@@ -1,4 +1,4 @@
-##Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento de um mês.
+# Algoritmo que recebe o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento de um mês.
 
 dep = float(input('Digite o valor do depósito: '))
 taxa = (input('Digite o valor da taxa de juros: '))

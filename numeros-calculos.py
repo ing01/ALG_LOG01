@@ -1,5 +1,5 @@
-##Faça um programa que receba um número positivo e maior que zero, calcule e mostre: O número digitado ao quadrado. O número digitado ao cubo. A raiz do número digitado e
-##A raiz cúbica do número digitado
+# Algoritmo que recebe um número positivo e maior que zero, calcule e mostre: 
+# o número digitado ao quadrado; o número digitado ao cubo; araiz do número digitado e a raiz cúbica do número digitado
 
 numero = float(input('Digite um número positivo e maior que zero: '))
 quad = numero**2

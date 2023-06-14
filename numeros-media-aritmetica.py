@@ -1,4 +1,4 @@
-##Faça um programa que receba três notas, calcule e mostre a média aritmética.
+# Algorimto que recebe três notas, calcule e mostre a média aritmética.
 
 nota1 = float(input('Informe a primeira nota:'))
 nota2 = float(input('Informe a segunda nota:'))

@@ -1,4 +1,4 @@
-##Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
+# Algoritmo que recebe dois números maiores que zero, calcule e mostre um elevado ao outro.
 
 numero1 = float(input('Digite um número maior que zero: '))
 numero2 = float(input('Digite outro número maior que zero: '))

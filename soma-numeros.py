@@ -1,4 +1,4 @@
-##Faça um programa que receba quatro números inteiros. Calcule e mostre a soma desses números.
+# Algoritmo que recebe quatro números inteiros. Calcule e mostre a soma desses números.
 
 n1 = int(input('Informe o primeiro número inteiro:'))
 n2 = int(input('Informe o segundo número inteiro:'))

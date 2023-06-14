@@ -1,5 +1,6 @@
-##Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida 
-##por uma residência. Calcule e mostre: o valor de cada quilowatt; o valor a ser pago por essa residência; o valor a ser pago com desconto de 15%
+# Algorimto que receba o valor do salário mínimo e a quantidade de quilowatts consumida e calcula
+# o valor de cada quilowatt; o valor a ser pago por essa residência; o valor a ser pago com desconto de 15%
+# Sabe-se que o quilowatt de energia custa um quinto do salário mínimo.
 
 valorSal = float(input('Qual o valor do seu salário? '))
 qtdeQwatt = int(input('Qual a quantidade de quilowwats consumida na sua residência? '))

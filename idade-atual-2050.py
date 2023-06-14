@@ -1,4 +1,5 @@
-##Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a idade dessa pessoa; quantos anos ela terá em 2050.
+# Algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcula e mostra: 
+# a idade dessa pessoa; quantos anos ela terá em 2050.
 
 nome = input('Digite o seu nome: ')
 ano_nasc = int(input('Digite o seu ano de nascimento: '))

@@ -1,4 +1,4 @@
-##Faça um programa que receba um número real, encontre e mostre: a parte inteira desse número; a parte fracionária desse número; o arredondamento desse número.
+# Algoritmo que recebe um número real, encontra e mostra: a parte inteira desse número; a parte fracionária desse número; o arredondamento desse número.
 
 numero = float(input('Escreva um número real: '))
 parte_int = numero // 1
